@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Yekkala</h1>
 <h3 align="center">mobile developer</h3>
 
-- 🔭 I’m currently working on [Chat AI, iOS app chatbot with access to 200+ text, image models including support for Ollama](https://chatlabsai.com)
+- 🔭 I’m currently working on [Chat AI, iOS chatbot with access to 200+ text, image models including support for Ollama](https://chatlabsai.com)
 
 - 🌱 I’m currently learning **swift 6, apple intelligence**
 
