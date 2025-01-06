@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything related to mobile, backend programming**
 
-- ⚡ Fun fact **My AR app was feature by Apple on App Store for 18+ months collecting 13 million impressions 😎**
+- ⚡ Fun fact **My AR app was featured by Apple on App Store for 18+ months collecting 13 million impressions 😎**
 
 <p align="left">
 </p>
