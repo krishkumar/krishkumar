@@ -1,7 +1,7 @@
 <h1 align="center">Krishna Yekkala</h1>
 <h3 align="center">mobile developer</h3>
 
-- 🔭 I’m currently working on [1AI, iOS chatbot with access to 200+ text, image models including support for Ollama](https://chatlabsai.com)
+- 🔭 I’m currently working on [1AI, iOS chatbot with access to 250+ text, image models including support for Ollama. Perform knowledge work with pre built tools for image creation, voice transcription, email writing, chatting with files, learn with quizzes.](https://chatlabsai.com)
 
 - 🌱 I’m currently learning **swift 6, apple intelligence**
 
