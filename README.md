@@ -11,7 +11,3 @@
 
 <p align="left">
 </p>
-
-## Xcode agent skills
-
-This repository also contains [10 skills exported from Xcode](skills/README.md) with `xcrun agent skills export`.
